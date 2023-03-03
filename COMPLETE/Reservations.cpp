@@ -1,16 +1,3 @@
-/*
-	std
-
-	Barron, Evelin
-	Garel, Bronson
-	Nguyen, Hannah
-	Pham, Jayson
-
-	Spring 2022
-	CS A250 - C++ 2
-	Project: Hiking in the US
-*/
-
 #include "Reservations.h"
 
 #include "HikeList.h"
